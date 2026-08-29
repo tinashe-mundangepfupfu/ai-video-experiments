@@ -1,0 +1,17 @@
+[project]
+name = "ai-video-experiments"
+version = "0.1.0"
+description = "Foundation project for AI video generation via OpenRouter's Video Generation API"
+readme = "README.md"
+authors = [
+    { name = "tmundangepfupfu", email = "cylon85@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "python-dotenv>=1.2.3",
+    "requests>=2.34.2",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.7,<0.13.0"]
+build-backend = "uv_build"
