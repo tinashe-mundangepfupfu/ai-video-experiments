@@ -1,6 +1,6 @@
 # AI Video Experiments
 
-Foundation project for AI video generation via OpenRouter's Video Generation API. Built to experiment with software architecture videos (Kubernetes, etc.).
+Foundation project for AI video generation via OpenRouter's Video Generation API. Built to experiment with video generation pipelines.
 
 ## Setup
 
